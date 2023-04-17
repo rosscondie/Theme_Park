@@ -28,4 +28,6 @@ public class ParkTest {
     public void hasVisitCount() {
         assertEquals(0, park.getVisitCount());
     }
+
+
 }

@@ -28,4 +28,5 @@ public class RollercoasterTest {
     public void hasVisitCount() {
         assertEquals(0, rollerCoaster.getVisitCount());
     }
+
 }
